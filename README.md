@@ -1,24 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">RTL Design | RISC-V | FPGA | Verilog Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=RTL+Design+Engineer;RISC-V+Processor+Developer;Verilog+%7C+SystemVerilog+%7C+FPGA;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="coding gif">
-</p>
-
----
-
-## 💫 About Me
-
-- 🔭 **Currently working on:** RTL Design, RISC-V Processor Implementation
-- 👯 **Looking to collaborate on:** Verilog/SystemVerilog projects, FPGA design projects
-- 🤝 **Seeking help with:** ASIC RTL Design, Advanced Verification
-- 🌱 **Currently learning:** UVM, TCL, Static Timing Analysis (STA)
-- 💬 **Ask me about:** Verilog, FSM Design, Digital Logic, FPGA Development
-- ⚡ **Fun fact:** I love optimizing hardware designs for better performance, lower area, and improved timing
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%2C%20I'm%20Rohith%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=VLSI%20Engineer%20%7C%20RTL%20%2F%20DFT%20%2F%20Verification&descAlignY=62&descSize=18" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rohith+%F0%9F%91%8B;A+VLSI+%2F+RTL+Design+Engineer;Working+on+RISC-V+Processor+Implementation;Exploring+DFT+%26+Advanced+Verification;Verilog+%7C+SystemVerilog+%7C+UVM;Optimizing+Silicon+for+Speed+%26+Area+%E2%9A%A1" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="profile views" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/> </p>
 
 ---
 
