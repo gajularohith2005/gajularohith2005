@@ -4,8 +4,6 @@ role:                VLSI Engineer
 current_focus:
   - RTL Design (Verilog / SystemVerilog)
   - RISC-V Processor Implementation
-  - DFT (Design for Testability)
-  - Functional & Advanced Verification
 
 looking_to_collaborate_on:
   - Verilog / SystemVerilog projects
@@ -26,7 +24,6 @@ ask_me_about:
   - Verilog & SystemVerilog
   - Finite State Machines (FSMs)
   - Digital Logic Design
-  - DFT: Scan Chains, ATPG, BIST
   - FPGA Implementation
 
 fun_fact: "I love optimizing hardware for performance, power & area ⚡🔧"
